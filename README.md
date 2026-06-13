@@ -23,7 +23,7 @@ The conversion factors are hardcoded as per the assignment requirements.
 
 ---
 
-## Supported Conversions
+## Supported Conversions(Please use the exact unit names and spelling listed below when making conversion requests.)
 
 ### Length
 
